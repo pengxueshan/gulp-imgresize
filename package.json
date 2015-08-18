@@ -1,0 +1,22 @@
+{
+  "author": {
+	"name": "mountainpeng"
+  },
+  "name": "gulp-imgresize",
+  "description": "image resize",
+  "version": "0.0.8",
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "keywords": [
+    "gulpplugin",
+    "imgresize"
+  ],
+  "dependencies": {
+    "node-lwip": "^0.0.6",
+    "through": "^2.3.8",
+    "gulp-util": "^3.0.6",
+    "path": "^0.11.14"
+  }
+}
